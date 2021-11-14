@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(to right, black, #330066, #7F00FF, #CC00CC, #FF8801, #FF8000, #FFF601, #FFF601, black);
+}
+
+body {
+color: orange;
+}
+
+h1 {
+color:whitesmoke;
+}
+
+.blinking {
+
+    animation: opacity 4s ease-in-out infinite;
+    opacity: 1;
+}
+
+#countDownTimer {
+    font-weight: bold;
+    font-size: large;
+    color: yellow
+}
+
+#loginTitleStyle {
+    color: white;
+
+}
+
+.button {
+    width: 150px;
+    height: 30px;
+    background-color: #FF8801;
+    border-radius: 12px;
+    border-color: yellow;
+}
+
+.lgButton {
+    width: 200px;
+    height: 30px;
+    background-color: #FF8801;
+    border-radius: 12px;
+    border-color: yellow;
+}
+
+table {
+    color: white;
+}
